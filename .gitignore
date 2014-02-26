@@ -1,0 +1,13 @@
+*.swp
+*.DS_Store
+.vagrant
+
+# files added by librarian-puppet install process
+puppet/.tmp/
+puppet/modules/apache
+puppet/modules/composer
+puppet/modules/concat
+puppet/modules/mysql
+puppet/modules/php
+puppet/modules/stdlib
+puppet/modules/wget

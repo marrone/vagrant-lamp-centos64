@@ -1,0 +1,6 @@
+---
+'pch::root_pwd': 'pch'
+'pch::dbname': 'pch'
+'pch::dbuser': 'pch'
+'pch::dbpassword': 'pch'
+'pch::app_folder': 'joomlaPCH'
